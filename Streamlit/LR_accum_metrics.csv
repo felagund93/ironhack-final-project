@@ -1,0 +1,2 @@
+,model,score,mean_absolute_error,mean_squared_error,RMSE
+0,LR_accum,0.8124428773636956,364844.36050806515,207068188372.10028,455047.4572746235

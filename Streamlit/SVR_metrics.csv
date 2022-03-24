@@ -1,0 +1,2 @@
+,model,score,mean_absolute_error,mean_squared_error,RMSE
+0,SVR,0.3007458942065796,4.030485509733601,22.6493489024504,4.759133209151683
